@@ -1,0 +1,6 @@
+In order to run the app:
+
+1. The application starts just by opening index.html
+2. The main pose classification and statistics code is located sketch.js
+3. Enjoy!
+
