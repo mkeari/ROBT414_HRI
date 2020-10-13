@@ -1,3 +1,2 @@
-# Programming Assignment 1 - Human Pose Estimation
-
-This project is designed to classify the human pose by measuring the positions of defined body points using the PoseNet architecture.
+# Programming Assignment 2 - NAO Robot Control
+This project is designed to simulate the NAO Robot control using the virtual robot and animate it for "Follow me" task.
